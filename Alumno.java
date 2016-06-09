@@ -1,7 +1,7 @@
 package Programacion;
 
 import java.util.HashMap;
-
+//nueva clase alumno que hereda de persona
 public class Alumno extends Persona {
 
 	HashMap<String, Integer> notas;
